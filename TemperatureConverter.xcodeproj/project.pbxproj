@@ -407,6 +407,7 @@
 				043F666319FB3F5800E765C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		043F666419FB3F5800E765C7 /* Build configuration list for PBXNativeTarget "TemperatureConverterTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				043F666619FB3F5800E765C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
